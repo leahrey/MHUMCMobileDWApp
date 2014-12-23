@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.mobileministry"
+    version   = "1.0.0">
+	<icon src="icon.png" />
+	<gap:splash src="splash.png" />
+
+
+<name>MHUMC Mobile Ministry</name>
+
+<description>
+Did you forget to bring your notepad with you? Now you can carry your bible study and sermon notes on your cell phone. </description>
+
+<author href="https://example.com" email="leahreynolds.lr@gmail.com">
+Leah Reynolds
+</author>
+
+</widget>
